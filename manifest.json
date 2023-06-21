@@ -1,6 +1,6 @@
 {
-    "name": "dailyplanner",
-    "short_name": "dailyplanner",
+    "name": "myplanner",
+    "short_name": "myplanner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
